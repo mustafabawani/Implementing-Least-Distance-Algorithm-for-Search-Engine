@@ -1,0 +1,1 @@
+g++ main.cpp globalfunctions.cpp SLL.cpp listNode.cpp stack.cpp StackNode.cpp BinarySearchTree.cpp treenode.cpp -o main
